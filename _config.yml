@@ -5,7 +5,7 @@ email: hychang@dano.me
 description: > # this means to ignore newlines until "baseurl:"
     장꽐라의 인생을 서술한다.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://github.com/ggiri0630" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ggiri0630.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 social:
   name: Hyeyoung Chang
   links:
