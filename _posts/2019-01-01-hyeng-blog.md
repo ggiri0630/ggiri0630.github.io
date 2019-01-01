@@ -2,7 +2,7 @@
 layout: post
 title: Hyeng blog
 summary: 자, 몇 번째 포스트에서 내가 이 방식이 아주 편하고 좋은 것임을 느낄 수 있을지 궁금하다.
-eatured-img: canada1
+featured-img: canada1
 
 ---
 
